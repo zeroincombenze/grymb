@@ -1,4 +1,4 @@
 # grymb
 Graphical Symbols
 
-Testing store graphical symbols
+Testing graphical symbols store
