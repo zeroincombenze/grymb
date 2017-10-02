@@ -12,3 +12,5 @@ Il certificato non garantisce l'accettazione della FatturaPA da parte della
 Pubblica Amministrazione che ha facoltà di rifiutare una fattura formalmente
 valida ne tantomeno garantisce il pagamento della stessa.
 
+La data di scadenza convenzionalmente è impostata alla fine dell'anno solare
+in cui è avvenuta la validazione.

@@ -12,3 +12,6 @@ controlli incrociati previsti dall'Agenzia delle Entrate.
 Il certificato non garantisce l'accettazione del file da parte dell'Agenzia delle Entrate
 in quanto non può garantisce controlli finali quali, ad esempio, duplicazione di
 un file già presentato.
+
+La data di scadenza convenzionalmente è impostata alla fine dell'anno solare
+in cui è avvenuta la validazione.

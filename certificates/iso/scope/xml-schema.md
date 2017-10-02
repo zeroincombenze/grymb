@@ -9,3 +9,6 @@ dello schema.
 
 Si tratta semplicemente di un controllo formale dei valori che non garantisce
 l'accettazione del file dalla controparte.
+
+La data di scadenza convenzionalmente è impostata alla fine dell'anno solare
+in cui è avvenuta la validazione.
