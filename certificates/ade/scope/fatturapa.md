@@ -8,9 +8,9 @@ ha superato i controlli di validazione del sito [http://sdi.fatturapa.gov.it/](h
 e di conseguenze l'applicazione è in grado di generare file xml validi
 accettati dal circuito SDI.
 
-Il certificato non garantisce l'accettazione della FatturaPA da parte della
-Pubblica Amministrazione che ha facoltà di rifiutare una fattura formalmente
-valida ne tantomeno garantisce il pagamento della stessa.
+Il certificato non garantisce l'accettazione della FatturaPA o della
+Comunicazione IVA da parte della Pubblica Amministrazione che ha facoltà di rifiutare una fattura formalmente
+valida ne tantomeno garantisce il pagamento della fatturaPA.
 
 La data di scadenza convenzionalmente è impostata alla fine dell'anno solare
 in cui è avvenuta la validazione.
